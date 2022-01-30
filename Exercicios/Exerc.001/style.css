@@ -1,0 +1,60 @@
+body {
+    background-color: aqua;
+    font: normal 12pt arial;
+
+}
+
+header#corpo {
+    font: normal 12pt arial;
+    background-color: white;
+    padding: 10px 5px 10px 5px;
+    margin: 10px 5px 10px 5px;
+    border: 1px solid#000;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    height: 3.5em;
+
+}
+
+footer#bottom {
+    margin: 10px 5px 10px 5px;
+    padding: 30px;
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+
+}
+
+section#square {
+    font: normal 15pt arial;
+    background-color: white;
+    padding: 10px 5px 10px 5px;
+    margin: 10px 5px 10px 5px;
+    border: 1px solid#000;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 735px;
+    box-shadow: 2.5px 1.5px 2.5px 1.5px;
+}
+
+img#imagem{
+    padding: 30px 5px 30px 5px;
+    width:68%;
+    height: 600px;
+    border-radius: 50%;
+    align-items: center;    
+}
+
+div#mensagemfinal{
+    text-align: center;
+    height: auto;
+    padding: 10px 5px 10px 5px;
+}
